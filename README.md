@@ -5,7 +5,10 @@
 
 
 <div align="center">
+  
   <h1>👋 Hi i'm Kholoud</h1>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=kholoud0&color=blue)
   <a href="mailto:Khloud1khaled@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
