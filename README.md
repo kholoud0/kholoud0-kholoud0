@@ -5,6 +5,7 @@
 
 
 <div align="center">
+  <h1>👋 Hi i'm Kholoud</h1>
   <a href="mailto:Khloud1khaled@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
@@ -13,7 +14,7 @@
   </a>
 </div>
 
-<h1>👋 About Me</h1>
+<h1>👋 Hi i'm Kholoud</h1>
 
 - I am __Kholoud Khaled__, a fresh Electronics and Communication Engineering graduate from Ain Shams University. I specialize in **Digital IC design** and am passionate about contributing to innovative projects in this field. My experiences range from **ASIC Design & Verification** to **implementation**, and I am always eager to learn and grow in the ever-evolving world of electronics.
 
