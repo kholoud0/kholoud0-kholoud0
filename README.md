@@ -29,7 +29,7 @@
 
 <h1>🛠️ Technical Skills</h1>
 
-- **Languages:** Verilog, VHDL, SystemVerilog, Python, C, C++
+- **Languages:** Verilog, VHDL, SystemVerilog, TCL, Python, C, C++
 
 - **Tools:** Synopsys Design Compiler, IC Compiler II, PrimeTime, ModelSim, Vivado, MATLAB, Cadence Virtuoso, OpenLane
 
