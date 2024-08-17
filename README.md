@@ -32,7 +32,7 @@
 
 - **Languages:** Verilog, VHDL, SystemVerilog, TCL, Python, C, C++
 
-- **Tools:** Synopsys Design Compiler, IC Compiler II, PrimeTime, ModelSim, Vivado, MATLAB, Cadence Virtuoso, OpenLane
+- **Tools:** Synopsys Design Compiler, DFT Compiler, IC Compiler II, PrimeTime, ModelSim, Vivado, MATLAB, Cadence Virtuoso, OpenLane
 
 - **Key Concepts:** ASIC Flow, RTL Coding, UVM, Static Timing Analysis (STA), Place and Route (PnR), DFT, Low Power Design, Formal Verification
  <h1>🎓 Education</h1>
