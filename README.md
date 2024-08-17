@@ -13,6 +13,7 @@
 
 - **Key Concepts:** ASIC Flow, RTL Coding, UVM, Static Timing Analysis (STA), Place and Route (PnR), DFT, Low Power Design, Formal Verification
  <h1>🎓 Education</h1>
+ 
 - **BSc in Electronics and Communications Engineering**
 
  - Ain Shams University, 2019 - 2024
