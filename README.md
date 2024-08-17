@@ -20,7 +20,9 @@
 
 
 <h1>🧑‍💻 About me</h1>
+
 - I am __Kholoud Khaled__, a fresh Electronics and Communication Engineering graduate from Ain Shams University. I specialize in **Digital IC design** and am passionate about contributing to innovative projects in this field. My experiences range from **ASIC Design & Verification** to **implementation**, and I am always eager to learn and grow in the ever-evolving world of electronics.
+
 
 ###
 <div align="center">
