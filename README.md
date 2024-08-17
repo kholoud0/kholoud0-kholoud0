@@ -35,7 +35,9 @@
  - Ain Shams University, 2019 - 2024
  
 # 🔗 Connect with Me
-- <i class="fa-brands fa-linkedin"></i>: [Khloud1khaled@gmail.com](mailto:Khloud1khaled@gmail.com)
+-
+  <i class="fa-brands fa-linkedin"></i>
+: [Khloud1khaled@gmail.com](mailto:Khloud1khaled@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kholoud-khaled0](https://www.linkedin.com/in/kholoud-khaled0/)
 - **GitHub:** [github.com/kholoud0](https://github.com/kholoud0)
 
