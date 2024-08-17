@@ -42,6 +42,14 @@
 - **LinkedIn:** [linkedin.com/in/kholoud-khaled0](https://www.linkedin.com/in/kholoud-khaled0/)
 - **GitHub:** [github.com/kholoud0](https://github.com/kholoud0)
 
+
+🔗 **Connect with Me**
+
+- **[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/c9/LinkedIn_icon.svg)](https://www.linkedin.com/in/kholoud-khaled0/)**
+- **[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/kholoud0)**
+- **[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4c/Envelop.svg)](mailto:Khloud1khaled@gmail.com)**
+
+
 # 🔗 Connect with Me
 
 <div align="left">
