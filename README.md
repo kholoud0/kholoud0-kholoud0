@@ -51,12 +51,6 @@
 </div>
 
 
-# 📈 GitHub Stats
-![Kholoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholoud0&show_icons=true&theme=radical)
-
-
-
-###
 
 <br clear="both">
 
