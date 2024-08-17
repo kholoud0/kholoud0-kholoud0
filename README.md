@@ -14,9 +14,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <br>
-  <i class="fa-solid fa-building-columns"></i> 
+
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm%29)](https://skillicons.dev/)
 
 <h1>👋 About me</h1>
 - I am __Kholoud Khaled__, a fresh Electronics and Communication Engineering graduate from Ain Shams University. I specialize in **Digital IC design** and am passionate about contributing to innovative projects in this field. My experiences range from **ASIC Design & Verification** to **implementation**, and I am always eager to learn and grow in the ever-evolving world of electronics.
