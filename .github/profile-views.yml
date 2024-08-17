@@ -1,1 +1,15 @@
+name: Update Profile Views
 
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update_views:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Increment profile views
+      uses: abhijithvijayan/github-profile-views-counter@v0.5.2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
