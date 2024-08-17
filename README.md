@@ -41,7 +41,7 @@
 
  - Ain Shams University, 2019 - 2024
  
-
+<br clear="both">
 
 ###
 <div align="center">
