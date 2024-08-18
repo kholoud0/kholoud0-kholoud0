@@ -41,6 +41,7 @@
  - Ain Shams University, 2019 - 2024
  
 <br clear="both">
+
 ![Kholoud's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholoud0&bg_color=ffffff&color=0366d6&line=0366d6&point=444444&area=true&hide_border=true)
 
 ###
