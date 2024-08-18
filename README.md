@@ -34,12 +34,7 @@
 - **Tools:** Synopsys Design Compiler, DFT Compiler, IC Compiler II, PrimeTime, ModelSim, Vivado, MATLAB, Cadence Virtuoso, OpenLane
 
 - **Key Concepts:** ASIC Flow, RTL Coding, Static Timing Analysis (STA), Place and Route (PnR), DFT, Low Power Design, Formal Verification, UVM
- <h1>🎓 Education</h1>
- 
-- **BSc in Electronics and Communications Engineering**
 
- - Ain Shams University, 2019 - 2024
- 
 <br clear="both">
 
 ###
