@@ -42,7 +42,7 @@
  
 <br clear="both">
 
-![Kholoud's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholoud0&bg_color=ffffff&color=0366d6&line=0366d6&point=444444&area=true&hide_border=true)
+![Kholoud's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=kholoud0&show_icons=true&theme=default&bg_color=ffffff&title_color=0366d6&text_color=444444&hide_border=true)
 
 ###
 <div align="center">
