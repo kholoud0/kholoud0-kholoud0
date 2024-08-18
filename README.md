@@ -46,7 +46,7 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kholoud0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kholoud0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kholoud0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="190" alt="languages graph"  />
   <br clear="both">
   <img src="https://raw.githubusercontent.com/kholoud0/kholoud0/output/snake.svg" alt="Snake animation" />
 
