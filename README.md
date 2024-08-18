@@ -42,8 +42,6 @@
  
 <br clear="both">
 
-![Kholoud's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=kholoud0&show_icons=true&theme=default&bg_color=ffffff&title_color=0366d6&text_color=444444&hide_border=true)
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kholoud0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="190" alt="stats graph"  />
