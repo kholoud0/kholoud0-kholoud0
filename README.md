@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1>👋 Hi i'm Kholoud</h1>
+  <h1>👋 Hi, i'm Kholoud</h1>
   <br>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=kholoud0&color=blue)
@@ -17,6 +17,17 @@
 
 </div>
 
+<p>
+  <a href="mailto:Khloud1khaled@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/kholoud-khaled0/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://github.com/kholoud0">
+    <img src="https://img.shields.io/github/followers/kholoud0?label=Follow&style=social" height="35" alt="GitHub Followers" />
+  </a>
+</p>
 
 
 <h1>🧑‍💻 About me</h1>
